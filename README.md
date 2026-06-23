@@ -1,16 +1,26 @@
-# module_15
+# Module 15 – Personal Profile Card (Flutter)
 
-A new Flutter project.
+A beginner-friendly Flutter application that displays a personal profile card with a profile picture, basic personal information, and interactive buttons. The app demonstrates clean UI design, reusable widgets, and basic user interactions.
 
-## Getting Started
+## ✨ Features
+- Profile picture using Network Image
+- Name, profession, bio, email, and phone number
+- Follow and Message buttons with state change
+- SnackBar on follow action
+- Interests section with horizontal cards
+- View More button showing details in a dialog
 
-This project is a starting point for a Flutter application.
+## 🧩 Concepts Used
+- StatelessWidget & StatefulWidget
+- Card, CircleAvatar, Row, Column
+- ElevatedButton & OutlinedButton
+- SnackBar and AlertDialog
+- setState() for UI updates
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run the app using `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍🎓 Author
+Sohel Das
